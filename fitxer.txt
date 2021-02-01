@@ -1,2 +1,6 @@
+
 fitxer 
 canvio text a la branca master
+
+fitxer - modificació del text
+
