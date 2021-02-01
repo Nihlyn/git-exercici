@@ -1,1 +1,2 @@
-fitxer
+fitxer 
+canvio text a la branca master
